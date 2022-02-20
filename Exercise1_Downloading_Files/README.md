@@ -19,3 +19,7 @@ Problem Statement is available here at  [Daniel Beach's Github repo](https://git
 4. extract csv from `zip` file and delete `zip` file.
 
 All tasks were accomplished with `error handling` and `logging` feature added as extra!
+
+This is my first attempt at async programming so I'd appreciate comments on how to better implement it if I did wrongly.
+
+Thanks and enjoy!
