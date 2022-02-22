@@ -22,7 +22,7 @@ target_urls <- tables[[1]] %>%
   pull(`Name`) %>%
   # extract first csv name
   first() %>%
-  # append base_url to csv name to create downlod link
+  # append base_url to csv name to create download link
   paste0(base_url,.)
 
 # read csv file from http link
