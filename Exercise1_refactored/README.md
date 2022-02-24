@@ -5,7 +5,7 @@ output:
     keep_md: true
 ---
 
-All code is available in `main.R`
+Primary code is available in `main.R`
 
 ## Problem Statement
 
@@ -31,3 +31,5 @@ Code has been refactored to be way more organised and readable.
 Run code by running `main.R` script.
 
 Helper functions available in `utilities` folder.
+
+Testing and Containerization coming up!

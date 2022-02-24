@@ -1,2 +1,29 @@
 2022-02-24 23:26:33:........................Starting new session........................
 2022-02-24 23:26:33: downloads folder created successfully
+2022-02-24 23:26:36: Starting download...
+2022-02-24 23:27:33: Divvy_Trips_2019_Q1.zip was downloaded successfully
+2022-02-24 23:27:34: Divvy_Trips_2019_Q1.csv was extracted successfully
+2022-02-24 23:27:34: Divvy_Trips_2019_Q1.zip was deleted successfully
+2022-02-24 23:26:37: Starting download...
+2022-02-24 23:28:14: Divvy_Trips_2019_Q2.zip was downloaded successfully
+2022-02-24 23:28:15: Divvy_Trips_2019_Q2.csv was extracted successfully
+2022-02-24 23:28:15: Divvy_Trips_2019_Q2.zip was deleted successfully
+2022-02-24 23:28:16: Starting download...
+2022-02-24 23:28:16: Error while downloading Divvy_Trips_2220_Q1.zip
+2022-02-24 23:28:16: URL does not seem to exist: https://divvy-tripdata.s3.amazonaws.com/Divvy_Trips_2220_Q1.zip
+2022-02-24 23:26:35: Starting download...
+2022-02-24 23:28:23: Divvy_Trips_2018_Q4.zip was downloaded successfully
+2022-02-24 23:28:23: Divvy_Trips_2018_Q4.csv was extracted successfully
+2022-02-24 23:28:23: Divvy_Trips_2018_Q4.zip was deleted successfully
+2022-02-24 23:28:18: Starting download...
+2022-02-24 23:29:16: Divvy_Trips_2020_Q1.zip was downloaded successfully
+2022-02-24 23:29:17: Divvy_Trips_2020_Q1.csv was extracted successfully
+2022-02-24 23:29:17: Divvy_Trips_2020_Q1.zip was deleted successfully
+2022-02-24 23:27:34: Starting download...
+2022-02-24 23:29:15: Divvy_Trips_2019_Q4.zip was downloaded successfully
+2022-02-24 23:29:16: Divvy_Trips_2019_Q4.csv was extracted successfully
+2022-02-24 23:29:16: Divvy_Trips_2019_Q4.zip was deleted successfully
+2022-02-24 23:26:37: Starting download...
+2022-02-24 23:29:48: Divvy_Trips_2019_Q3.zip was downloaded successfully
+2022-02-24 23:29:50: Divvy_Trips_2019_Q3.csv was extracted successfully
+2022-02-24 23:29:50: Divvy_Trips_2019_Q3.zip was deleted successfully
